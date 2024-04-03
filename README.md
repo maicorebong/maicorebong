@@ -9,4 +9,3 @@ My professional interests focus on analytics plan deployment, data analysis, ins
 * Language: SQL, Python
 * Visualization: Power BI, Tableau
 * Spreadsheets: MS Excel
-* Cloud Technologies: Amazon Web Service (AWS) Certified Cloud Practitioner
