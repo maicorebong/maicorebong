@@ -6,7 +6,7 @@ My professional interests focus on analytics plan deployment, data analysis, ins
 
 
 ### 📚 Projects
-Welcome to my [portfolio](https://github.com/maicorebong/portfolio)! Here are some projects I worked on covering Python, SQL, Power BI, and Tableau.
+Welcome to my [portfolio](https://maicorebong.github.io/)! Here are some projects I worked on covering Python, SQL, Power BI, and Tableau.
 
 ### 🛠️ Tools
 * Language: SQL, Python
