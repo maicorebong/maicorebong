@@ -13,3 +13,4 @@ Welcome to my [portfolio](https://maicorebong.github.io/)! Here are some project
 * Language: SQL, Python
 * Visualization: Power BI, Tableau
 * Spreadsheets: MS Excel
+* Financial Planning & Model Building: Anaplan
